@@ -1,3 +1,4 @@
+# Electron configuration
 atomic_number = int(input("Enter atomic number: "))
 print()
 
